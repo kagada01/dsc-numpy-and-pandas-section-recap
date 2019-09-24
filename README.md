@@ -1,7 +1,7 @@
 
 # Section Recap
 
-This short lesson summarizes the topics we covered in this section and why they'll be important to you as a Sata Scientist.
+This short lesson summarizes the topics we covered in this section and why they'll be important to you as a Data Scientist.
 
 
 ## Key Takeaways
